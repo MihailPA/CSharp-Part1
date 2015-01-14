@@ -1,0 +1,13 @@
+Problem 12. Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+
+>Eclipse- This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+
+>NetBeans- The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere (which is a whole different ball game).
+
+>Gebit- Gedit is the official editor of the gnome desktop and comes installed once the system is setup. Very useful for the user that is casually editing code and not undertaking major projects. This would be a good companion to Netbeans or Eclipse.Gedit offers the ability to highlight your code and figure out where the bugs are by giving you a fresh perspective. This can also be used for web development, to help developers see where the start of nodes are and where to submit the end nodes, doing this could cut down drastically on XHTML issues. While it may not do almost everything like Netbeans or eclipse, it is a handy tool to have on the computer.
+
+>Code::Blocks- Unlike the other products seen thus far, Code::Blocks, which is built on the wxWidgets framework, is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. You can load up a number of under-the-hood compiler engines, ranging from GCC and LLVM, to Digital Mars and Open Watcom. Code::Blocks also takes advantage of multi-core compiling, allowing you to get the job done faster. Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely by anyone.
+
+>CodeLite- Open-source, cross platform (Windows, Linux & Mac OS) C/C++ IDE written with wxWidgets and released under the GPL license. Features context sensitive help, auto-completion, refactoring, and a full debugging GUI. CodeLite is based on plugins so it can be extended very easily.

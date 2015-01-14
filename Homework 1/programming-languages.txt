@@ -1,0 +1,18 @@
+Problem 11. Programming Languages
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
+
+
+
+>JAVA- is one of the most in-demand programming languages, a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system. Java is designed to work across multiple software platforms, meaning a program written on Mac OS X, for example, could also run on Windows.
+      Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+>JavaScript- is a client and server-side scripting language developed by Netscape that derives much of its syntax from C. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions. It is also used in game development and writing desktop applications. JavaScript interpreters are embedded in Google's Chrome extensions, Apple's Safari extensions, Adobe Acrobat and Reader, and Adobe's Creative Suite.Javascript is a non-typed scripting language, which means it typically runs uncompiled in browsers.C# is a strongly-typed language, which is typically compiled into a .dll. But both of them have similar syntax.
+
+>C/C++ compared with C# -C# is a simple, modern, object oriented, and type-safe programming language derived from C and C++. C# (pronounced C sharp) is firmly planted in the C and C++ family tree of languages, and will immediately be familiar to C and C++ programmers. C# aims to combine the high productivity of Visual Basic and the raw power of C++.C# is designed to free the developers from the task of doing memory management. It means in C# you do not have to explicitly delete memory that was allocated dynamically on the heap, as you could in C++. Rather, the garbage collector periodically cleans up memory that is no longer needed.
+
+>Python- is winner in: ease of learning, cross platform development, availability of open source libraries. Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.The language provides constructs intended to enable clear programs on both a small and large scale. C# is winner in: standard library, language features, development process and tools, performance, language evolution speed.
+
+>VB.NET- Though C# and VB.NET are syntactically very different, that is where the differences mostly end. Microsoft developed both of these languages to be part of the same .NET Framework development platform. They are both developed, managed, and supported by the same language development team at Microsoft.C# Advantages: 1.Language support for unsigned types (you can use them from VB.NET, but they aren't in the language itself). Again, support for these is coming to VB.NET in Whidbey. 2.The using statement, which makes unmanaged resource disposal simple. 3.Unsafe code. This allows pointer arithmetic etc, and can improve performance in some situations. However, it is not to be used lightly, as a lot of the normal safety of C# is lost (as the name implies). Note that unsafe code is still managed code, i.e. it is compiled to IL, JITted, and run within the CLR.
+
+

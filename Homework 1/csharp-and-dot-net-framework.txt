@@ -1,0 +1,10 @@
+Problem 13. C# and .NET Differences
+
+Describe the difference between C# and .NET Framework in 2-3 sentences.
+
+>.NET is an application development framework - .NET Framework is a common environment for building, deploying, and running Web Services, Web Applications, Windows Services and Windows Applications. The .NET Framework contains common class libraries - like ADO.NET, ASP.NET and Windows Forms - to provide advanced standard services that can be integrated into a variety of computer systems.Programs written for .NET Framework execute in a software environment (as contrasted to hardware environment), known as Common Language Runtime (CLR)
+an application virtual machine that provides services such as security, memory management, and exception handling. 
+FCL and CLR together constitute .NET Framework.
+
+>C# is a strong Object Oriented programming language that is mostly built on the .NET framework.C# is one of the programming languages designed for the Common Language Infrastructure.C# is intended to be a simple, modern, general-purpose, object-oriented programming language.
+Its development team is led by Anders Hejlsberg.The most recent version is C# 5.0, which was released on August 15, 2012.
