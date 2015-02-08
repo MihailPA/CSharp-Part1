@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\03.MinMaxSumandAverageofNNumbers\bin\Debug\03.MinMaxSumandAverageofNNumbers.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\03.MinMaxSumandAverageofNNumbers\bin\Debug\03.MinMaxSumandAverageofNNumbers.exe
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\03.MinMaxSumandAverageofNNumbers\bin\Debug\03.MinMaxSumandAverageofNNumbers.pdb
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\03.MinMaxSumandAverageofNNumbers\obj\Debug\03.MinMaxSumandAverageofNNumbers.exe
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\03.MinMaxSumandAverageofNNumbers\obj\Debug\03.MinMaxSumandAverageofNNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\07.CalculateNFacturelDivide_KFacturelNK\bin\Debug\07.CalculateNFacturelDivide_KFacturelNK.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\07.CalculateNFacturelDivide_KFacturelNK\bin\Debug\07.CalculateNFacturelDivide_KFacturelNK.exe
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\07.CalculateNFacturelDivide_KFacturelNK\bin\Debug\07.CalculateNFacturelDivide_KFacturelNK.pdb
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\07.CalculateNFacturelDivide_KFacturelNK\obj\Debug\07.CalculateNFacturelDivide_KFacturelNK.exe
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\07.CalculateNFacturelDivide_KFacturelNK\obj\Debug\07.CalculateNFacturelDivide_KFacturelNK.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\NumbersNotDivisibleby3and7\bin\Debug\NumbersNotDivisibleby3and7.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\NumbersNotDivisibleby3and7\bin\Debug\NumbersNotDivisibleby3and7.exe
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\NumbersNotDivisibleby3and7\bin\Debug\NumbersNotDivisibleby3and7.pdb
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\NumbersNotDivisibleby3and7\obj\Debug\02.NumbersNotDivisibleby3and7.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\NumbersNotDivisibleby3and7\obj\Debug\NumbersNotDivisibleby3and7.exe
+C:\Users\Mihail\Documents\Visual Studio 2013\Projects\HomeworkLoops\NumbersNotDivisibleby3and7\obj\Debug\NumbersNotDivisibleby3and7.pdb
