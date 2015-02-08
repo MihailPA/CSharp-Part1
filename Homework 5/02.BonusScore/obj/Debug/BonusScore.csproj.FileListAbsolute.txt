@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2013\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.exe.config
+c:\users\mihail\documents\visual studio 2013\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.exe
+c:\users\mihail\documents\visual studio 2013\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.pdb
+c:\users\mihail\documents\visual studio 2013\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.exe
+c:\users\mihail\documents\visual studio 2013\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.pdb

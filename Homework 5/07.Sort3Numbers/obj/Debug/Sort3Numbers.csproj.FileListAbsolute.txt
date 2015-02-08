@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2013\Projects\Sort3Numbers\Sort3Numbers\bin\Debug\Sort3Numbers.exe.config
+c:\users\mihail\documents\visual studio 2013\Projects\Sort3Numbers\Sort3Numbers\bin\Debug\Sort3Numbers.exe
+c:\users\mihail\documents\visual studio 2013\Projects\Sort3Numbers\Sort3Numbers\bin\Debug\Sort3Numbers.pdb
+c:\users\mihail\documents\visual studio 2013\Projects\Sort3Numbers\Sort3Numbers\obj\Debug\Sort3Numbers.exe
+c:\users\mihail\documents\visual studio 2013\Projects\Sort3Numbers\Sort3Numbers\obj\Debug\Sort3Numbers.pdb

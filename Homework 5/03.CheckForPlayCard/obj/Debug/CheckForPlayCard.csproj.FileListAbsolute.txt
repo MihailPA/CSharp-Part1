@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2013\Projects\CheckForPlayCard\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe.config
+c:\users\mihail\documents\visual studio 2013\Projects\CheckForPlayCard\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe
+c:\users\mihail\documents\visual studio 2013\Projects\CheckForPlayCard\CheckForPlayCard\bin\Debug\CheckForPlayCard.pdb
+c:\users\mihail\documents\visual studio 2013\Projects\CheckForPlayCard\CheckForPlayCard\obj\Debug\CheckForPlayCard.exe
+c:\users\mihail\documents\visual studio 2013\Projects\CheckForPlayCard\CheckForPlayCard\obj\Debug\CheckForPlayCard.pdb

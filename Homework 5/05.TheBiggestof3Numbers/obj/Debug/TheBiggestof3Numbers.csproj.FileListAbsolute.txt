@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2013\Projects\TheBiggestof3Numbers\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.exe.config
+c:\users\mihail\documents\visual studio 2013\Projects\TheBiggestof3Numbers\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.exe
+c:\users\mihail\documents\visual studio 2013\Projects\TheBiggestof3Numbers\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.pdb
+c:\users\mihail\documents\visual studio 2013\Projects\TheBiggestof3Numbers\TheBiggestof3Numbers\obj\Debug\TheBiggestof3Numbers.exe
+c:\users\mihail\documents\visual studio 2013\Projects\TheBiggestof3Numbers\TheBiggestof3Numbers\obj\Debug\TheBiggestof3Numbers.pdb
